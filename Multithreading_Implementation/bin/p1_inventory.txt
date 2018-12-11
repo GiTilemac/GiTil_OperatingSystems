@@ -1,0 +1,4 @@
+wood 5
+stone 1
+meat 0
+gold 2

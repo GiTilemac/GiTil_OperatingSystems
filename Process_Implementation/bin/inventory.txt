@@ -1,0 +1,4 @@
+gold 11
+wood 12
+stone 13
+meat 14
